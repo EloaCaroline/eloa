@@ -2,4 +2,5 @@
 Meu nome é Eloá Caroline
 
 -Estou estudando na Alura
--Estou 
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
